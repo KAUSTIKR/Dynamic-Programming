@@ -1,2 +1,2 @@
-# Dynamic-Programming
-LeetCode DP
+# Dynamic-Programming & Backtracking
+LeetCode problems diagram solution
